@@ -24,7 +24,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.6); /* Yarim shaffof fon */
+    background: rgba(0, 0, 0, 0.6); 
 }
 
 .logo {
@@ -45,7 +45,7 @@ body {
 
 .container {
     text-align: center;
-    margin-top: 6rem; /* Navbar pastida joylashishi uchun */
+    margin-top: 6rem; 
 }
 
 .hero-section {
